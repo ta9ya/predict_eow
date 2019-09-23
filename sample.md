@@ -7,9 +7,8 @@ class: center, middle, inverse
 # 体言止めの文章にふさわしい語尾の推測
 
 ---
-
 layout:false
-# 自己紹介
+## 自己紹介
 
 <dl>
   <dt>名前</dt>
