@@ -8,6 +8,7 @@ class: center, middle, inverse
 
 ---
 
+layout:false
 # 自己紹介
 
 <dl>
