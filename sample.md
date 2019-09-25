@@ -101,8 +101,11 @@ layout:false
 ---
 
 # 評価する
+|train|test|
+|:--:|:--:|
+|![train](images/binary_train_accuracy.png)|![test](images/binary_test_accuracy.png)|
 
-F置で0.9
+<!-- <img src="images/binary_train_accuracy.png"><img src="images/binary_test_accuracy.png"> -->
 
 ---
 
