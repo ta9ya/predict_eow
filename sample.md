@@ -100,9 +100,17 @@ layout:false
 ---
 
 # 評価する
+
 |train|test|
 |:--:|:--:|
 |![train](images/binary_train_accuracy.png)|![test](images/binary_test_accuracy.png)|
+
+### 精度を上げるためには
+
+- クロスバリデーションする
+- 文字列入力の方法を工夫する
+- 層数を増やす
+...etc
 
 <!-- <img src="images/binary_train_accuracy.png"><img src="images/binary_test_accuracy.png"> -->
 
